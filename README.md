@@ -24,8 +24,14 @@ Proyek ini adalah sebuah website sederhana yang dibuat menggunakan dua versi Boo
 
 Untuk melihat demo dari website ini, silakan klik tautan berikut:
 
-[🎥 Lihat Video Demo Website v3](https://github.com/user-attachments/assets/89581c31-23c7-4bf5-8643-5c26cdd74f7b) <br>
-[🎥 Lihat Video Demo Website v5](https://github.com/user-attachments/assets/fb96d903-feb0-43bc-9a24-4bd5c4f096cf)
+### 🎥 Lihat Video Demo Website v3
+https://github.com/user-attachments/assets/89581c31-23c7-4bf5-8643-5c26cdd74f7b
+
+<br>
+
+### 🎥 Lihat Video Demo Website v5 <br>
+
+https://github.com/user-attachments/assets/fb96d903-feb0-43bc-9a24-4bd5c4f096cf
 
 ---
 
